@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bruce-typescript-react-IG/static/css/main.2da4b35e.css",
+    "main.js": "/bruce-typescript-react-IG/static/js/main.643cb66f.js",
+    "index.html": "/bruce-typescript-react-IG/index.html",
+    "main.2da4b35e.css.map": "/bruce-typescript-react-IG/static/css/main.2da4b35e.css.map",
+    "main.643cb66f.js.map": "/bruce-typescript-react-IG/static/js/main.643cb66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da4b35e.css",
+    "static/js/main.643cb66f.js"
+  ]
+}
