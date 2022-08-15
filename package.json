@@ -2,6 +2,7 @@
   "name": "my-ig",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eddie605134.github.io/bruce-typescript-react-IG",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^5.16.2",
@@ -32,7 +33,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prettier": "prettier -w ./src",
-    "server": "json-server --watch db.json --port 3004 -d 1500"
+    "server": "json-server --watch db.json --port 3004 -d 1500",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -53,6 +56,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react": "^18.0.9"
+    "@types/react": "^18.0.9",
+    "gh-pages": "^4.0.0"
   }
 }
