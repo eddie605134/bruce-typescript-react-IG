@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "location": "橘貓窩",
+      "account": "orange_cater",
+      "avatar": "/images/avatars/a1.png",
+      "photo": "/images/posts/main1.png",
+      "likes": 15234,
+      "description": "我的耳機線!!!",
+      "hashTags": "#囂張貓咪",
+      "createTime": "2 HOURS AGO"
+    },
+    {
+      "id": 2,
+      "location": "笈地",
+      "account": "壽司法師",
+      "avatar": "/images/avatars/a2.png",
+      "photo": "/images/posts/main2.png",
+      "likes": 333,
+      "description": "終於要朝聖了",
+      "hashTags": "#壽司",
+      "createTime": "3 HOURS AGO"
+    },
+    {
+      "id": 3,
+      "location": "虎斑家",
+      "account": "斑斑虎",
+      "avatar": "/images/avatars/a3.png",
+      "photo": "/images/posts/main3.png",
+      "likes": 777,
+      "description": "不要叫我起床啦",
+      "hashTags": "#厭世",
+      "createTime": "6 HOURS AGO"
+    },
+    {
+      "id": 4,
+      "location": "烏來區",
+      "account": "watermelon",
+      "avatar": "/images/avatars/a4.png",
+      "photo": "/images/posts/main4.png",
+      "likes": 824,
+      "description": "天然的尚好",
+      "hashTags": "#野溪",
+      "createTime": "6 HOURS AGO"
+    },
+    {
+      "id": 5,
+      "location": "台中",
+      "account": "你的咖哩超人",
+      "avatar": "/images/avatars/a5.png",
+      "photo": "/images/posts/main5.png",
+      "likes": 98,
+      "description": "隱藏版香料咖哩！",
+      "hashTags": "#巷弄美食",
+      "createTime": "10 HOURS AGO"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "name": "peter1",
+      "avatar": "/images/avatars/a1.png"
+    },
+    {
+      "id": 2,
+      "name": "peter2",
+      "avatar": "/images/avatars/a2.png"
+    },
+    {
+      "id": 3,
+      "name": "peter3",
+      "avatar": "/images/avatars/a3.png"
+    },
+    {
+      "id": 4,
+      "name": "peter4",
+      "avatar": "/images/avatars/a4.png"
+    },
+    {
+      "id": 5,
+      "name": "peter5",
+      "avatar": "/images/avatars/a5.png"
+    },
+    {
+      "id": 6,
+      "name": "peter6",
+      "avatar": "/images/avatars/a6.png"
+    },
+    {
+      "id": 7,
+      "name": "peter7",
+      "avatar": "/images/avatars/a7.png"
+    },
+    {
+      "id": 8,
+      "name": "peter8",
+      "avatar": "/images/avatars/a8.png"
+    },
+    {
+      "id": 9,
+      "name": "peter9",
+      "avatar": "/images/avatars/a9.png"
+    },
+    {
+      "id": 10,
+      "name": "peter10",
+      "avatar": "/images/avatars/a10.png"
+    }
+  ]
+}
